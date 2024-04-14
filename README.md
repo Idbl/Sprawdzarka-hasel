@@ -1,0 +1,2 @@
+# Sprawdzarka-hasel
+Sprawdzarka-hasel
